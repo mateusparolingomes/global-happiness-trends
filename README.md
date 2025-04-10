@@ -48,7 +48,8 @@ All datasets were cleaned and merged into a unified format for analysis.
 - Build visually compelling and insight-rich dashboards
 - Derive actionable insights using statistical measures and visual storytelling
 
-## 📫 Contact
+## ✍️ Author
 
-Made with 💙 by [Mateus Parolin Gomes](https://github.com/mateusparolingomes)  
-📧 Feel free to reach out via GitHub for questions or collaboration!
+Mateus Parolin Gomes  
+Master in Business Analytics @ Hult International Business School  
+[GitHub](https://github.com/mateusparolingomes) | [LinkedIn](https://www.linkedin.com/in/mateusparolingomes/)
