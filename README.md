@@ -12,7 +12,6 @@ Using Power BI, I built an interactive dashboard that highlights:
 
 The dashboard enables easy exploration of how happiness scores have evolved across regions and how various socioeconomic indicators correlate with happiness.
 
-
 ## 📁 Dataset
 
 The original dataset contains yearly CSV files from 2015 to 2023. Each file includes:
@@ -36,17 +35,14 @@ All datasets were cleaned and merged into a unified format for analysis.
 - **Power BI** for dashboard creation and data visualization
 - **Excel** for initial checks
 
-## 🚀 How to Use
+## 🚀 Business Objectives
 
-1. Download the `.pbix` file from this repo.
-2. Open it in Power BI Desktop.
-3. Interact with the filters to explore trends by country, region, or year.
+This analysis was built to support data-driven policymaking and strategic prioritization for public well-being. The goals include:
 
-## 📌 Project Goals
-
-- Practice data wrangling and merging across multiple files
-- Build visually compelling and insight-rich dashboards
-- Derive actionable insights using statistical measures and visual storytelling
+- Identifying **key levers of happiness** (e.g., GDP per capita, freedom of choice) to guide socioeconomic development strategies
+- Enabling **comparative benchmarking** across countries and regions over time
+- Highlighting areas of **inequality or unexpected performance** (e.g., high GDP but low happiness) to focus intervention
+- Empowering stakeholders—governments, NGOs, and businesses—with a clear view of how social, economic, and governance metrics impact collective well-being
 
 ## ✍️ Author
 
