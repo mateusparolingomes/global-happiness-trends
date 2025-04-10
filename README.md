@@ -12,7 +12,6 @@ Using Power BI, I built an interactive dashboard that highlights:
 
 The dashboard enables easy exploration of how happiness scores have evolved across regions and how various socioeconomic indicators correlate with happiness.
 
-![World Happiness Dashboard](./image.png)
 
 ## 📁 Dataset
 
