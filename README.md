@@ -34,8 +34,7 @@ All datasets were cleaned and merged into a unified format for analysis.
 ## 🧠 Tools & Technologies
 
 - **Power BI** for dashboard creation and data visualization
-- **Python (optional)** for preprocessing and merging multiple CSVs
-- **Excel** for initial checks (optional)
+- **Excel** for initial checks
 
 ## 🚀 How to Use
 
